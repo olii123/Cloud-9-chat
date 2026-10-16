@@ -1,5 +1,7 @@
 {
   "clientId": "cloud9",
+  "widgetVersion": "v1",
+  "features": {},
   "brand": "Cloud 9 Window Cleaning",
   "logoText": "C9",
   "colours": {
